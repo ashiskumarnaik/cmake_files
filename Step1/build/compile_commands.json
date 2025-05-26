@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/ashiskumarnaik/01_projects/cmake_practice/cmake-4.0.2-tutorial-source/Step1/build",
-  "command": "/usr/bin/g++   -g -o CMakeFiles/Tutorial.dir/tutorial.cxx.o -c /home/ashiskumarnaik/01_projects/cmake_practice/cmake-4.0.2-tutorial-source/Step1/tutorial.cxx",
-  "file": "/home/ashiskumarnaik/01_projects/cmake_practice/cmake-4.0.2-tutorial-source/Step1/tutorial.cxx",
-  "output": "CMakeFiles/Tutorial.dir/tutorial.cxx.o"
-}
-]
